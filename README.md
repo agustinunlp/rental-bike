@@ -1,9 +1,9 @@
 # rental-bike
 This project is an mvp . I also add functionality to detect if a bike is available or not for rent.
-I use Java 8 and Junit for testing. 
-I created 2 different exceptions.
-Inside Domain folder, there are java domain clases, exceptions and Interfaces.
-Inside Test folder, there are the tests.
++ I use Java 8 and Junit for testing. 
++ I created 2 different exceptions.
++ Inside Domain folder, there are java domain clases, exceptions and Interfaces.
++ Inside Test folder, there are the tests.
 
 some Future work:
 + we can implement hashcode and equals in Bike class, so when we create a FamilyRental instance
