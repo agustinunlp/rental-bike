@@ -11,6 +11,7 @@ public class Rental implements IRental, IRentValidation{
         this.bike = bike;
         this.type = type;
         validate();
+        bike.setAvailable(false);
     }
     public Bike getBike() {
         return bike;
